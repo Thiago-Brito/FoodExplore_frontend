@@ -9,38 +9,49 @@ Projeto de conclusão do curso do explore
 **Quando inciar você vai ver tela de SingUp**
 
 - Mobile
-  img
+
+  ![SingIn](https://github.com/Thiago-Brito/FoodExplore_frontend/blob/main/readmeAssets/MSignIn.png)
 
 - Destokp
-  img
+  
+  ![SingIn](https://github.com/Thiago-Brito/FoodExplore_frontend/blob/main/readmeAssets/DSignIn.png)
 
 **Se o usuario ainda não tiver uma conta ele vai para tela de SingIn**
 
 - Mobile
-  img
+
+  ![SingUp](https://github.com/Thiago-Brito/FoodExplore_frontend/blob/main/readmeAssets/MSignUp.png)
 
 - Destokp
-  img
+
+  ![SingUp](https://github.com/Thiago-Brito/FoodExplore_frontend/blob/main/readmeAssets/DSignUp.png)
 
 #### Existe dois tipos de usuarios o admin e o clientes
 
 **Logando como cliente**
 
 - Mobile
-  img
+  
+  ![Home](https://github.com/Thiago-Brito/FoodExplore_frontend/blob/main/readmeAssets/MHome.png)
 
 - Destokp
-  img
+    
+  ![Home](https://github.com/Thiago-Brito/FoodExplore_frontend/blob/main/readmeAssets/DHome.png)
+
 
 Na Home ele vai poder favoritar comidas, fazer pedidos, procurar as comidas pelo nome e ingredientes.
 
 **Clicando no nome do prato**
 
 - Mobile
-  img
+ 
+  ![Preview](https://github.com/Thiago-Brito/FoodExplore_frontend/blob/main/readmeAssets/MPreview.png)
+
 
 - Destokp
-  img
+   
+  ![Preview](https://github.com/Thiago-Brito/FoodExplore_frontend/blob/main/readmeAssets/DPreview.png)
+
 
 **Logando como Admin**
 
@@ -51,34 +62,50 @@ admin@gmail.com
 senha123
 
 - Mobile
-  img
+ 
+  ![Home](https://github.com/Thiago-Brito/FoodExplore_frontend/blob/main/readmeAssets/MHomeAdmin..png)
+
 
 - Destokp
-  img
+  
+  ![Home](https://github.com/Thiago-Brito/FoodExplore_frontend/blob/main/readmeAssets/DHomeAdmin.png)
+  
 
 **Clicando no nome do prato**
 
 - Mobile
-  img
+
+  ![Preview](https://github.com/Thiago-Brito/FoodExplore_frontend/blob/main/readmeAssets/MPreviewAdmin.png)
+
 
 - Destokp
-  img
+  
+  ![Preview](https://github.com/Thiago-Brito/FoodExplore_frontend/blob/main/readmeAssets/DPreviewAdmin.png)
+
 
 **Tela de criação de pratos**
 
 - Mobile
-  img
+  
+  ![Create](https://github.com/Thiago-Brito/FoodExplore_frontend/blob/main/readmeAssets/MCreate.png)
+  
 
 - Destokp
-  img
+  
+  ![Create](https://github.com/Thiago-Brito/FoodExplore_frontend/blob/main/readmeAssets/DCreate.png)
+  
 
 **Tela de edição de pratos**
 
 - Mobile
-  img
+  
+  ![Edit](https://github.com/Thiago-Brito/FoodExplore_frontend/blob/main/readmeAssets/MEdit.png)
+  
 
 - Destokp
-  img
+ 
+  ![Edit](https://github.com/Thiago-Brito/FoodExplore_frontend/blob/main/readmeAssets/DEdit.png)
+ 
 
 ## Deploy
 
