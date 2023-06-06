@@ -131,7 +131,7 @@ export function Edit() {
 
         {Object.keys(food).length !== 0 && (
           <Form>
-            {isDesktop ? <h2>Editar prato</h2> : <h2>Novo Prato</h2>}
+            {isDesktop ? <h2>Editar prato</h2> : <h2>Editar prato</h2>}
             <ThreeColl>
               <Input
                 title={"Imagem do Prato"}
